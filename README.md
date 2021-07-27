@@ -1,5 +1,4 @@
-<h1 align="center"> Hi me Britishkun</h1>
-<h2  align="center"> Selam ben Ada, 16 yaşında NodeJS Developer'ım. 2020 Temmuzdan beri bu yazılım dili ile ilgileniyorum ve kendimi baya geliştirdim. Şu anda ise JavaScript Modülü olan ReactJS + Canvas Öğrenmeye çalışmaktayım. Yazacak başka bir şey bulamadım, bana ulaşmak isterseniz Instagram üzerinden @britishkun ismi ile bulabilirsiniz. Btw Shinoa Discord üzerinde kullandığım nickname im normalde ve her yerde "Britishkun" nickini kullanıyorum değiştirmeyi de düşünmüyorum.   </h2>
+<h1 align="center"> Ada</h1>
 <p align="center">
  <a href="https://discord.com/users/461212138346905600" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/britishkun" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
